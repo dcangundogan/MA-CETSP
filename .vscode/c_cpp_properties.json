@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Windows",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.36.32532/include",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.22000.0/ucrt",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.22000.0/shared",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.22000.0/um"
+      ],
+      "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.36.32532/bin/Hostx64/x64/cl.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ],
+  "version": 4
+}
