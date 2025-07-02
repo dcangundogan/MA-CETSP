@@ -1,0 +1,7 @@
+PROBLEM_FILE = C:\Users\gundo\Desktop\MA-CETSP\tempproblem.tsp
+TOUR_FILE = C:\Users\gundo\Desktop\MA-CETSP\tempresult.txt
+INITIAL_TOUR_FILE = C:\Users\gundo\Desktop\MA-CETSP\temptour.txt
+MOVE_TYPE = 5
+RUNS = 1
+TRACE_LEVEL = 0
+MAX_TRIALS = 10

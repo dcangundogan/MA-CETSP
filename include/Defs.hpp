@@ -42,10 +42,11 @@ const std::string SERVER_LKH_EXE = "";
 const std::string SERVER_LKH_TMP_ROOT = "";
 
 // local
-const std::string LOCAL_DATA_DIR = "C:\\Users\\gundo\\Desktop\\OMP - CETSP\\datasets";              // directory of instances
-const std::string LOCAL_RES_DIR = "C:\\Users\\gundo\\Desktop\\OMP - CETSP\\result";               // directory of results
-const std::string LOCAL_LKH_EXE = "C:\\Users\\gundo\\Desktop\\LKH\\LKHWin - 2.0.10\\x64\\Release\\LKH - 2.exe";               // path for LKH solver
-const std::string LOCAL_LKH_TMP_ROOT = "C:\\Users\\gundo\\Desktop\\OMP-CETSP\\temp";          // LKH tmp output directory
+const std::string LOCAL_DATA_DIR = "C:\\Users\\gundo\\Desktop\\MA-CETSP\\datasets\\"; // directory of instances
+const std::string LOCAL_RES_DIR = "C:\\Users\\gundo\\Desktop\\OMP-CETSP\\result";               // directory of results
+const std::string LOCAL_LKH_EXE = "C:\\Users\\gundo\\Desktop\\LKH\\LKHWin\\x64\\Release\\LKH.exe";
+const std::string LOCAL_LKH_TMP_ROOT = "C:\\Users\\gundo\\Desktop\\MA-CETSP\\temp\\";
+// LKH tmp output directory
 
 // instances
 const std::vector<std::string> FILENAMES = {

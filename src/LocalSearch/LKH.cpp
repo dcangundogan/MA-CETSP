@@ -41,7 +41,8 @@ List* LKH::run(List* solution, bool adapted) {
 	}
 
 	write(solution);
-	std::string str = lkh_exe + " " + params_file;
+	std::string str = "\"" + lkh_exe + "\" \"" + params_file + "\"";
+
 	const char* cmd = str.c_str();
 	system(cmd);
 	List* new_solution = read();
